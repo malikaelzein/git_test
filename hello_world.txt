@@ -1,1 +1,1 @@
-Hello world I'm malika elzein
+Hello world I'm malika elzein, and I'm learning programming on The Odin Project.
